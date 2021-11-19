@@ -1,0 +1,21 @@
+Jenis Gejala						Bobot
+
+Gejala yang paling umum (ringan):
+1. demam						5
+2. batuk						5
+3. kelelahan						5
+4. kehilangan rasa atau bau				5
+
+Gejala yang sedikit tidak umum (sedang):
+1. sakit tenggorokan					10
+2. sakit kepala						10
+3. sakit dan nyeri					10
+4. diare						10
+5. ruam pada kulit, atau perubahan			10
+6. warna pada jari tangan atau jari kaki		10
+7. mata merah atau iritasi				10
+
+Gejala serius (berat):
+1. kesulitan bernapas atau sesak napas			30
+2. kesulitan berbicara atau bergerak, atau bingung	30
+3. nyeri dada						25
